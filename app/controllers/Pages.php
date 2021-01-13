@@ -9,7 +9,7 @@ class Pages extends Controller
      */
     public function __construct()
     {
-       echo 'pages class is loaded<br>';
+   //    echo 'pages class is loaded<br>';
     }
 
     public function index(){
